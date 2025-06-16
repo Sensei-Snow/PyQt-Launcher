@@ -1,0 +1,4 @@
+{
+  "qt-designer_path": "path\\to\\your\\py-qt\\designer\\executable",
+  "comment": "Change the qt-designer_path with your own path which goes to the PyQt Designer executable, see the README.md for more informations"
+}
