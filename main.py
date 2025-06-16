@@ -2,7 +2,7 @@
 import sys
 import os
 from PyQt6.QtGui import QIcon
-from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QMessageBox, QPushButton
+from PyQt6.QtWidgets import QApplication, QMainWindow, QMessageBox
 from PyQt6 import uic
 from PyQt6.QtCore import Qt
 import subprocess
